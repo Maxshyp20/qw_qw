@@ -5,7 +5,7 @@ from aiogram.dispatcher import FSMContext
 from aiogram.dispatcher.filters import Command
 from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
-qw = 'pisunu'
+qw = 'dlodcsod'
 
 bot = Bot(token="6368169284:AAE_8sfGeJHfMguXa7LvRBjejW_ltxmns9k")
 dp = Dispatcher(bot)
